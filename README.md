@@ -1,4 +1,3 @@
 # tinyurl
 
-<img src="relative/path/in/repository/to/image.svg" width="128"/>
-
+<img src="/Tinyurl-SpringBoot/src/main/resources/static/tinyurl.jpg" width="128"/>
